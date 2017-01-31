@@ -1,1 +1,1 @@
-Collection of javascript problems and solutions (or fun)
+Collection of javascript problems and solutions
