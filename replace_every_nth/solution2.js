@@ -28,5 +28,3 @@ function replaceNth(text, n, oldValue, newValue) {
     }
     return result;
 }
-
-console.log(replaceNth('Luke said: Noooooooooooooo!', 6, 'o', 'i'));
