@@ -1,4 +1,5 @@
 
+// Regex solution
 function replaceNth(text, n, oldValue, newValue) {
 
   // Handle edge case, no matches possible
